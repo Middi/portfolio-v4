@@ -1,0 +1,18 @@
+/*  ---- COLORS ---- */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: #6f6f6f;
+  font-size: 16px;
+}
+
+a:hover {
+  color: #568fbb;
+  text-decoration: none;
+}
+
+.active {
+  color: #568fbb;
+}
