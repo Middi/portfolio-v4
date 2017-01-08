@@ -22,7 +22,7 @@ main {
     background-color: $background-card;
     width: 420px;
     height: auto;
-    padding: 12px;
+    padding: 12px 12px 20px 12px;
     border-radius: 3px;
     border: 1.5px solid rgba($border-card, 0.09);
 }
@@ -37,4 +37,5 @@ main {
 .name {
     display: inline-block;
 }
+
 @import "media-queries";
